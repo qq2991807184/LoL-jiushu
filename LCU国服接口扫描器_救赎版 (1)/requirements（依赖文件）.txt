@@ -1,0 +1,2 @@
+requests>=2.31.0
+# LCU-API-Scanner 创作者：救赎 QQ：2991807184
